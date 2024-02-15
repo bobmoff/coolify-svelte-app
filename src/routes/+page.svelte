@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app (on Coolify!)
+		to your new<br />SvelteKit app (on Coolify!!)
 	</h1>
 
 	<h2>
